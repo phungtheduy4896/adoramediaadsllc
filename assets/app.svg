@@ -1,0 +1,8 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600'>
+<rect width='900' height='600' fill='#0f172a'/><rect x='70' y='60' width='760' height='480' rx='28' fill='#101a2e' stroke='#38bdf8' stroke-opacity='.25'/>
+<rect x='135' y='120' width='250' height='250' rx='48' fill='#1f2b40'/>
+<path d='M185 340c28-94 97-160 174-201-16 66-7 127 23 184-58 22-121 27-197 17z' fill='#38bdf8' opacity='.62'/>
+<path d='M202 350c96-5 172-38 228-101-4 75-46 142-121 189-59-9-89-31-107-88z' fill='#22c55e' opacity='.54'/>
+<path d='M470 160h210v32H470z' fill='#26354e'/><path d='M470 218h250v28H470z' fill='#26354e'/><path d='M470 274h220v28H470z' fill='#26354e'/><path d='M470 330h205v28H470z' fill='#26354e'/>
+<text x='125' y='455' fill='#ecf7ff' font-family='Georgia' font-size='42'>Sky Branch Run</text>
+</svg>

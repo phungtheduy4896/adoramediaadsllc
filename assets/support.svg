@@ -1,0 +1,5 @@
+<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 900 600'>
+<rect width='900' height='600' fill='#0f172a'/><rect x='70' y='60' width='760' height='480' rx='28' fill='#101a2e' stroke='#38bdf8' stroke-opacity='.22'/>
+<circle cx='250' cy='240' r='80' fill='#38bdf8' opacity='.18'/><circle cx='470' cy='240' r='80' fill='#22c55e' opacity='.18'/><circle cx='650' cy='240' r='60' fill='#38bdf8' opacity='.14'/>
+<text x='150' y='500' fill='#ecf7ff' font-family='Georgia' font-size='42'>App Support &amp; Customer Help</text>
+</svg>
